@@ -1,0 +1,14 @@
+{
+  "idk.lua": {
+    "script": "print('Running idk.lua')"
+  },
+  "secret.lua": {
+    "script": "print('Secret script executed.')"
+  },
+  "T4vK1nM7eQ9B2xZ8": {
+    "script": "print('Test2 Loaded')"
+  },
+  "G7mA2xP9qL3Z8rB5": {
+    "script": "print('Test3 Loaded')"
+  }
+}
