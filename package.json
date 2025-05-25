@@ -1,0 +1,14 @@
+{
+  "name": "MoonVeil",
+  "version": "1.0.0",
+  "description": "v 0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "lightgray2",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
