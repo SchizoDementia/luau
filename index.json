@@ -1,0 +1,4 @@
+{
+  "idk.lua": "loadstring('print(\\\"Protected IDK script\\\")')()",
+  "custom.lua": "loadstring('print(\\\"Custom script\\\")')()"
+}
